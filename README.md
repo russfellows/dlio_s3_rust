@@ -1,3 +1,8 @@
+# Update & Status as of 9, July 2025
+This project is being archived.  There is a newer / successor library with similar goals, that has more features and capabilities.
+Going forward, that project should be utilized rather than this repo (dlio_s3_rust).  That new project is s3dlio (https://github.com/russfellows/s3dlio)
+
+
 # How to Guide
 
 ## S3 Rust Library and CLI
